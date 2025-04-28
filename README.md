@@ -1,4 +1,4 @@
-# My solution for Hydropower forecasting Zindi Competition
+# My solution for Hydropower Forecasting Zindi Competition
 https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge
 
 # Strategy:
