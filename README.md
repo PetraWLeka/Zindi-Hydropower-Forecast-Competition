@@ -10,4 +10,5 @@ Future Improvement:
 - Explore ensemble method 
 - Use rolling feature
 
-![image](https://github.com/user-attachments/assets/3c901b97-fb18-491e-aa99-c9221d2d35a2)
+![image](https://github.com/user-attachments/assets/cbd7d895-b380-4165-8f49-3ceb42cf868b)
+
